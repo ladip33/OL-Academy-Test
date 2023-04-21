@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\LadiPapiashvili\bin\Debug\net7.0\LadiPapiashvili.exe
+C:\Users\user\Desktop\LadiPapiashvili\bin\Debug\net7.0\LadiPapiashvili.deps.json
+C:\Users\user\Desktop\LadiPapiashvili\bin\Debug\net7.0\LadiPapiashvili.runtimeconfig.json
+C:\Users\user\Desktop\LadiPapiashvili\bin\Debug\net7.0\LadiPapiashvili.dll
+C:\Users\user\Desktop\LadiPapiashvili\bin\Debug\net7.0\LadiPapiashvili.pdb
+C:\Users\user\Desktop\LadiPapiashvili\obj\Debug\net7.0\LadiPapiashvili.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\LadiPapiashvili\obj\Debug\net7.0\LadiPapiashvili.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\LadiPapiashvili\obj\Debug\net7.0\LadiPapiashvili.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LadiPapiashvili\obj\Debug\net7.0\LadiPapiashvili.AssemblyInfo.cs
+C:\Users\user\Desktop\LadiPapiashvili\obj\Debug\net7.0\LadiPapiashvili.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LadiPapiashvili\obj\Debug\net7.0\LadiPapiashvili.dll
+C:\Users\user\Desktop\LadiPapiashvili\obj\Debug\net7.0\refint\LadiPapiashvili.dll
+C:\Users\user\Desktop\LadiPapiashvili\obj\Debug\net7.0\LadiPapiashvili.pdb
+C:\Users\user\Desktop\LadiPapiashvili\obj\Debug\net7.0\LadiPapiashvili.genruntimeconfig.cache
+C:\Users\user\Desktop\LadiPapiashvili\obj\Debug\net7.0\ref\LadiPapiashvili.dll
